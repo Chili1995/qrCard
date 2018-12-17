@@ -1,4 +1,4 @@
-# qrCard
+# qrCard(导出二维码卡片工具)
 参数格式：
 {
 	"RECORDS":[
